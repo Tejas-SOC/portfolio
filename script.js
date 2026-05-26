@@ -40,13 +40,13 @@ document.addEventListener("DOMContentLoaded", function () {
         <b>Phone &nbsp;&nbsp;&nbsp;:</b> <a href="tel:+91 XXXXX XXXXX" class="custom-link">+91 9021451291</a><br>
         <b>Email &nbsp;&nbsp;&nbsp;:</b> <a href="mailto:tejaspandav248@gmail.com" class="custom-link">tejaspandav248@gmail.com</a><br>
         <b>LinkedIn :</b> <a href="https://www.linkedin.com/in/tejas-pandav-soc/" target="_blank" class="custom-link">linkedin.com/tejas-pandav-soc/</a><br>
-        <b>GitHub &nbsp;&nbsp;:</b> <a href="https://github.com/tejas248" target="_blank" class="custom-link">tejas248</a><br>
+        <b>GitHub &nbsp;&nbsp;:</b> <a href="https://github.com/Tejas-SOC" target="_blank" class="custom-link">tejas248</a><br>
             `;
         },
 
         github: () => {
-            window.open("https://github.com/tejas248", "_blank");
-            return `Opening <a href="https://github.com/tejas248" target="_blank" class="custom-link">tejas248</a>...`;
+            window.open("https://github.com/Tejas-SOC", "_blank");
+            return `Opening <a href="https://github.com/Tejas-SOC" target="_blank" class="custom-link">tejas248</a>...`;
         },
 
         linkedin: () => {
