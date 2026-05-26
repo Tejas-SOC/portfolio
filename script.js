@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         github: () => {
             window.open("https://github.com/Tejas-SOC", "_blank");
-            return `Opening <a href="https://github.com/Tejas-SOC" target="_blank" class="custom-link">tejas248</a>...`;
+            return `Opening <a href="https://github.com/Tejas-SOC" target="_blank" class="custom-link">Tejas-SOC</a>...`;
         },
 
         linkedin: () => {
