@@ -105,8 +105,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
         resume: () => {
             const link = document.createElement("a");
-            link.href = "Tejas Pandav SOC Analyst.pdf";
-            link.download = "Tejas Pandav SOC Analyst.pdf";
+            link.href = "Tejas Pandav Cyber Security Analyst.pdf";
+            link.download = "Tejas Pandav Cyber Security Analyst.pdf";
             document.body.appendChild(link);
             link.click();
             document.body.removeChild(link);
